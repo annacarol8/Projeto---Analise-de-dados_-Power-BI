@@ -1,4 +1,4 @@
-# Projeto---Analise-de-dados_-Power-BI
+# Projeto: Analise de dados - Power BI
 
 ## 📝 Descrição
 Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) da Olist, focando em métricas de performance financeira, comportamento de consumo por região e métodos de pagamento preferidos pelos clientes.
