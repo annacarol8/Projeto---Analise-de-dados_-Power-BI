@@ -3,6 +3,7 @@
 ## Análise de Vendas e Performance – E-commerce Olist
 
 #📝 Sobre o Projeto
+
 Este repositório contém a análise de dados completa da plataforma Olist, desenvolvida ao longo das etapas AC1, AC2, AC3 e AC4. O objetivo é transformar dados brutos de e-commerce em insights acionáveis para a gestão de vendas, logística e satisfação do cliente.
 
 
