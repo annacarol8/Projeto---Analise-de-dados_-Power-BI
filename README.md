@@ -30,7 +30,3 @@ Este repositório contém a análise de dados completa da plataforma Olist, dese
 
 #📌 Fonte dos dados: 
 Os dados utilizados foram extraidos do Dataset público da Olist no Kaggle, Segue: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_order_items_dataset.csv
-
-## 🚀 Como acessar
-1. Faça o download do arquivo `.pbix` disponível neste repositório.
-2. Abra o arquivo no seu **Power BI Desktop**.
