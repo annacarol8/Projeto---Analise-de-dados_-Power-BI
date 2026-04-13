@@ -13,7 +13,7 @@ Este repositório contém a análise de dados completa da plataforma Olist, dese
   
 🔹 AC2: Eficiência Logística e Prazos
 * Foco: Performance de entrega e cumprimento de prazos.
-* Destaques: Comparativo entre data de entrega prevista vs. real e análise de gargalos logísticos por estado.
+* Destaques: Comparativo entre data de entrega e análise de gargalos logísticos por estado.
   
 🔹 AC3: Qualidade e Satisfação do Cliente
 * Foco: Experiência do utilizador e feedback pós-compra.
